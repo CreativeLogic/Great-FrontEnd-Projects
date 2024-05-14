@@ -48,6 +48,7 @@ article {
     font-size: 1.125rem;
     line-height: 1.75rem;
     color: var(--color-black);
+    font-weight: 600;
   }
 
   & div p:last-child {
